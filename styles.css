@@ -14,7 +14,7 @@ h1 {
 }
 h4 {
     color:rgb(127, 161, 255);
-    font-size:20px;
+    font-size:25px;
 }
 h5 {
     color:gray;
@@ -22,8 +22,14 @@ h5 {
     font-size:30px;
     text-align:center;
 }
+
 p,ul,ol {
     font-family:Verdana,sans-serif;
+    font-size:20px;
+    color:rgb(127, 161, 255);
+}
+p{
+    color:black;
     font-size:15px;
 }
 img{
@@ -33,3 +39,7 @@ img{
 .image{
     text-align:center;
 }
+.ingredient{
+    font-weight:bold;
+}
+
